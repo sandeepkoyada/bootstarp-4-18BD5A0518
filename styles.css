@@ -10,6 +10,17 @@
     min-height: 400px;
 
 }
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+#reserve{
+  width: 100%;
+}
+
+
 
 .footer {
     background-color:#D1C4E9;
@@ -38,6 +49,6 @@ body{
 .navbar-dark
 {
     background-color: #512DAB;
-    
+
 
 }
